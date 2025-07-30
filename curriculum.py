@@ -48,7 +48,7 @@ def set_bg_gif(gif_file):
 
 
 # Call the function with your GIF file
-set_bg_gif("UDI_64runs.gif")
+set_bg_gif("assets/UDI_64runs.gif")
 
 
 st.title("👨‍💻 Juan Gamero, PhD – Architect who codes - Environmental Designer")
