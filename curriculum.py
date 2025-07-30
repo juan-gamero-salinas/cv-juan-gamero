@@ -53,15 +53,15 @@ set_bg_gif("assets/UDI_64runs.gif")
 
 st.title("👨‍💻 Juan Gamero, PhD – Architect who codes - Environmental Designer")
 st.markdown("""
-I’m an architect, environmental designer and researcher driven by **automation**, **simulation**, and **sustainability**.
-For the past 7 years, I’ve worked to connect **design with data-driven methods** — from optimizing passive design via **parametric modeling**,
+I’m an architect, environmental designer and researcher passionate about **automation**, **simulation**, and **sustainability**.
+For the past 7 years, I’ve worked to connect **design with data-driven methods** — from optimizing passive design via **parametric modelling**,
 to teaching AI applications in real estate, to applying **NLP and LLMs** on unstructured AECO documentation.
 
 I thrive in **interdisciplinary settings** where architects, engineers, and developers collaborate (my four years at DATAI are a strong example).
 I’ve contributed to research that blends **building/urban data, simulations, and AI**, and I’m excited to keep developing **custom tools**, **automated workflows**, and **digital twins**
 that solve real-world problems.
 
-I enjoy transforming complex challenges into clear, automated solutions or visualizations — while mentoring peers, sharing knowledge, and learning from diverse teams.
+I enjoy transforming complex challenges into clear, automated solutions or visualizations — while sharing knowledge and learning from diverse teams.
 """)
 
 
