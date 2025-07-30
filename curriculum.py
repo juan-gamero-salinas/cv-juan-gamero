@@ -53,7 +53,8 @@ set_bg_gif("assets/UDI_64runs.gif")
 
 st.title("👨‍💻 Juan Gamero, PhD – Architect who codes - Environmental Designer")
 st.markdown("""
-I’m an architect, environmental designer and researcher passionate about **automation**, **simulation**, and **sustainability**.
+I'm an 📐🏠🌳 architect and environmental designer passionate about creating resilient built environments for a warming climate, 
+bridging the gap between design and performance via 📉🤖💻 computational tools, data science, and AI. I’m passionate about **automation**, **simulation**, and **sustainability**.
 For the past 7 years, I’ve worked to connect **design with data-driven methods** — from optimizing passive design via **parametric modelling**,
 to teaching AI applications in real estate, to applying **NLP and LLMs** on unstructured AECO documentation.
 
