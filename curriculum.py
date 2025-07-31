@@ -149,6 +149,14 @@ elif option == '💻 GitHub Projects':
     st.markdown("Repository: [rsm-thermal-daylight-optimization](https://github.com/juan-gamero-salinas/rsm-thermal-daylight-optimization)")
     st.markdown("Multi-objective optimization framework using **Response Surface Methodology (RSM)** and **desirability functions** to balance **thermal comfort** and **daylight** in early-stage design. Includes code in R and Python, tied to scientific publication in *Scientific Reports*.")
 
+    st.subheader("🏠 Indoor Overheating Risk App – Pamplona")
+    st.markdown("Repository: [indoor-overheating-app-pamplona](https://github.com/juan-gamero-salinas/indoor-overheating-app-pamplona)")
+    st.markdown(
+        "An interactive prototype developed to estimate the risk of overheating inside homes during heatwaves in Pamplona, Navarra. "
+        "The goal is to help identify vulnerable households using a classification model based on real survey data."
+    )
+
+
 
 elif option == '💬 Contact':
     st.markdown("📧 arqgamero@gmail.com")
