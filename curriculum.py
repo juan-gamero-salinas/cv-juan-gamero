@@ -159,5 +159,4 @@ elif option == '💻 GitHub Projects':
 
 
 elif option == '💬 Contact':
-    st.markdown("📧 arqgamero@gmail.com")
     st.markdown("[🔗 LinkedIn](https://www.linkedin.com/in/juangamerosalinas/)")
